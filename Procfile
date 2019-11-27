@@ -1,3 +1,3 @@
-web: gunicorn flexy1.wsgi --log-file -
+web: gunicorn locallibrary.wsgi --log-file -
 
 
