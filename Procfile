@@ -1,1 +1,3 @@
-web: gunicorn locallibrary.wsgi --log-file -
+web: gunicorn qwerty1.wsgi --log-file -
+
+
