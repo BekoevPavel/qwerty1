@@ -1,3 +1,3 @@
-web: gunicorn qwerty1.wsgi --log-file -
+web: gunicorn flexy1.wsgi --log-file -
 
 
