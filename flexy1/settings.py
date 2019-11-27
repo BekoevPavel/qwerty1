@@ -28,7 +28,7 @@ DEBUG = False
 #ALLOWED_HOSTS = []
 
 #ALLOWED_HOSTS = ('*')
-ALLOWED_HOSTS = ['intense-woodland-79843.herokuapp.com/','127.0.0.1:8000']
+ALLOWED_HOSTS = ['intense-woodland-79843.herokuapp.com','127.0.0.1:8000']
 
 
 
